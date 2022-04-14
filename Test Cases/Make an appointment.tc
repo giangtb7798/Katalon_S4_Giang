@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Make an appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f138a25-cde2-4072-ae73-fad46b2a4495</testCaseGuid>
+   <variable>
+      <defaultValue>'Soul CURA Healthcare center'</defaultValue>
+      <description></description>
+      <id>2b719801-7036-4cac-95ea-4bcb244b9df7</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'true'</defaultValue>
+      <description></description>
+      <id>7e94d9b6-1e5f-4c28-8c8f-ee07f29a3628</id>
+      <masked>false</masked>
+      <name>applyHospitalReadmission</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medicaid'</defaultValue>
+      <description></description>
+      <id>400bf79b-6543-4c4f-a9bf-1bfc94e2a339</id>
+      <masked>false</masked>
+      <name>healthcareProgram</name>
+   </variable>
+   <variable>
+      <defaultValue>'1/4/2022'</defaultValue>
+      <description></description>
+      <id>a337251b-7361-498e-bae6-2ffd14c462f7</id>
+      <masked>false</masked>
+      <name>visitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Comment\r\n'</defaultValue>
+      <description></description>
+      <id>ca017fe6-06bd-44a3-bd91-cab24bca714a</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>
